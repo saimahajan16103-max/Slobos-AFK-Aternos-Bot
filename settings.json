@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "technoblade",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "EchooSurvival.aternos.me",
