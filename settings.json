@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "technoblade",
+    "username": "Gokux12",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "EchooSurvival.aternos.me",
     "port": 27265,
-    "version": "1.21.10",
+    "version": "",
     "try-creative": false
   },
   "position": {
