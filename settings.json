@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "EchooSurvival.aternos.me",
+    "port":  27265,
     "version": "",
     "try-creative": false
   },
